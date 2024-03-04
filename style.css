@@ -1,0 +1,17 @@
+.body-bg{
+    background-color: #10B582;
+    width: 100%;
+    min-height: 800px;
+}
+.row1{
+    min-height: 800px;
+}
+.quti5-bg{
+    background-image: url(img/novetbookdagi-figma.png);
+    width: 100%;
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 100px;
+}
